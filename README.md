@@ -1,1 +1,1 @@
-# Deploy-Recommendation-System-using-flask-and-djnago
+# Deploy Recommendation System using flask and djnago
